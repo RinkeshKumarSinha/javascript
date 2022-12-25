@@ -1,0 +1,14 @@
+let userName="Rinkesh";
+const number=21;
+let userId=2105989;
+var booleanValue=true;
+var address=null;
+var myArray=[1,2,3,4];//non-primitives
+var keyValue={name:"Rinkesh",age:24};//non-primitives
+console.log(typeof userName);
+console.log(typeof number);
+console.log(typeof userId);
+console.log(typeof booleanValue);
+console.log(typeof address);
+console.log(typeof myArray);
+console.log(typeof keyValue);
